@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ArvoreAVL": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

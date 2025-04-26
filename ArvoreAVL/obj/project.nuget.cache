@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKlzbGaMokk=",
+  "success": true,
+  "projectFilePath": "D:\\ArvoreAVL\\ArvoreAVL\\ArvoreAVL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guisc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
