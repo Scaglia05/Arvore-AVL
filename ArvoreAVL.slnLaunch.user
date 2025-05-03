@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "ArvoreAVL\\ArvoreAVL.csproj",
+        "Action": "Start",
+        "DebugTarget": "ArvoreAVL"
+      }
+    ]
+  }
+]
