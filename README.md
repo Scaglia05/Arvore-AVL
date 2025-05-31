@@ -83,41 +83,45 @@ Todos os comandos são lidos a partir de um **arquivo de entrada** contendo uma 
     Nó 30: Fator de balanceamento 0
     Altura da árvore: 2
 
+---
 
 ## ✅ Como Usar
 
-### 1️⃣ Pré-requisitos
+1️⃣ Pré-requisitos
 
-- Ter o **.NET SDK** instalado.  
-Para verificar:  
-```bash
+Tenha o .NET SDK instalado na sua máquina.
 
-2️⃣ Clonar o repositório
-bash
-Copy
-Edit
-
-3️⃣ Criar o arquivo de entrada
-Crie um arquivo chamado entrada.txt com os comandos desejados, ou utilize o modelo de exemplo.
+Para verificar se está instalado e qual versão, abra o terminal/Prompt de Comando e digite:
 dotnet --version
+
+2️⃣ Clonar o Repositório
+
+No terminal, clone o repositório do projeto e entre na pasta criada:
 git clone https://github.com/seu-usuario/arvore-avl-csharp.git
 cd arvore-avl-csharp
 
+3️⃣ Criar o Arquivo de Entrada
+
+Crie um arquivo chamado entrada.txt na raiz do projeto com os comandos que deseja executar na árvore AVL.
+Você pode usar o exemplo fornecido no README ou criar seus próprios comandos.
+
 ## ✅ Estrutura de Pastas Sugerida
 
-/ArvoreAVL  
-  /Model  
-    - BaseArvoreAVL.cs  
-    - NoAVL.cs  
-    - ProcessadorDeComandos.cs  
-  - Program.cs  
-  - entrada.txt  
-  - ArvoreAVL.csproj  
-  - README.md
+/ArvoreAVL
+/Model
+- BaseArvoreAVL.cs
+- NoAVL.cs
+- ProcessadorDeComandos.cs
+
+Program.cs
+
+entrada.txt
+
+ArvoreAVL.csproj
+
+README.md
 
 ## ✅ Observações
-
-A AVL garante que a árvore permaneça balanceada após cada inserção ou remoção.  
-A saída pode variar conforme as rotações aplicadas.  
+A AVL garante que a árvore permaneça balanceada após cada inserção ou remoção.
+A saída pode variar conforme as rotações aplicadas.
 Muito útil para estudar conceitos de estrutura de dados e algoritmos!
-
