@@ -55,33 +55,33 @@ Todos os comandos são lidos a partir de um **arquivo de entrada** contendo uma 
 
 ## ✅ Exemplo de Arquivo de Entrada (`entrada.txt`):
 
-I 10
-I 20
-I 30
-P
-I 15
-P
-R 20
-P
-B 15
-B 25
-F
-H
+    I 10
+    I 20
+    I 30
+    P
+    I 15
+    P
+    R 20
+    P
+    B 15
+    B 25
+    F
+    H
 
 ---
 
 ## ✅ Exemplo de Saída Esperada:
 
-Árvore em pré-ordem: 20 10 30
-Árvore em pré-ordem: 20 10 15 30
-Árvore em pré-ordem: 15 10 30
-Valor encontrado
-Valor não encontrado
-Fatores de balanceamento:
-Nó 15: Fator de balanceamento 0
-Nó 10: Fator de balanceamento 0
-Nó 30: Fator de balanceamento 0
-Altura da árvore: 2
+    Árvore em pré-ordem: 20 10 30
+    Árvore em pré-ordem: 20 10 15 30
+    Árvore em pré-ordem: 15 10 30
+    Valor encontrado
+    Valor não encontrado
+    Fatores de balanceamento:
+    Nó 15: Fator de balanceamento 0
+    Nó 10: Fator de balanceamento 0
+    Nó 30: Fator de balanceamento 0
+    Altura da árvore: 2
 
 
 ## ✅ Como Usar
