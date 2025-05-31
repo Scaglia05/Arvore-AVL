@@ -1,0 +1,15 @@
+D:\ArvoreAVL\ArvoreAVL\bin\Debug\net9.0\ArvoreAVL.exe
+D:\ArvoreAVL\ArvoreAVL\bin\Debug\net9.0\ArvoreAVL.deps.json
+D:\ArvoreAVL\ArvoreAVL\bin\Debug\net9.0\ArvoreAVL.runtimeconfig.json
+D:\ArvoreAVL\ArvoreAVL\bin\Debug\net9.0\ArvoreAVL.dll
+D:\ArvoreAVL\ArvoreAVL\bin\Debug\net9.0\ArvoreAVL.pdb
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.AssemblyInfoInputs.cache
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.AssemblyInfo.cs
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.csproj.CoreCompileInputs.cache
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.sourcelink.json
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.dll
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\refint\ArvoreAVL.dll
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.pdb
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ArvoreAVL.genruntimeconfig.cache
+D:\ArvoreAVL\ArvoreAVL\obj\Debug\net9.0\ref\ArvoreAVL.dll
