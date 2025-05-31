@@ -103,18 +103,21 @@ dotnet --version
 git clone https://github.com/seu-usuario/arvore-avl-csharp.git
 cd arvore-avl-csharp
 
-✅ Estrutura de Pastas Sugerida
-/ArvoreAVL
-  /Model
-    - BaseArvoreAVL.cs
-    - NoAVL.cs
-    - ProcessadorDeComandos.cs
-  - Program.cs
-  - entrada.txt
-  - ArvoreAVL.csproj
+## ✅ Estrutura de Pastas Sugerida
+
+/ArvoreAVL  
+  /Model  
+    - BaseArvoreAVL.cs  
+    - NoAVL.cs  
+    - ProcessadorDeComandos.cs  
+  - Program.cs  
+  - entrada.txt  
+  - ArvoreAVL.csproj  
   - README.md
 
-✅ Observações
-A AVL garante que a árvore permaneça balanceada após cada inserção ou remoção.
-A saída pode variar conforme as rotações aplicadas.
+## ✅ Observações
+
+A AVL garante que a árvore permaneça balanceada após cada inserção ou remoção.  
+A saída pode variar conforme as rotações aplicadas.  
 Muito útil para estudar conceitos de estrutura de dados e algoritmos!
+
