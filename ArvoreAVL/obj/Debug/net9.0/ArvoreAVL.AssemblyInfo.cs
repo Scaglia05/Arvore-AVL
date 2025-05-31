@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArvoreAVL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3933c14f11baa98cb1707087b060b9c361221a77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8356436531460e5c01dda24cae5c296470bc9ba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArvoreAVL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArvoreAVL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
