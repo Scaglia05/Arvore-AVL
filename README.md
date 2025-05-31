@@ -96,8 +96,9 @@ dotnet --version
 
 2️⃣ Clonar o Repositório
 
-No terminal, clone o repositório do projeto e entre na pasta criada:
-git clone https://github.com/seu-usuario/arvore-avl-csharp.git
+No terminal, clone o repositório do projeto e entre na pasta criada: 
+https://github.com/Scaglia05/ArvoreAVL.git
+
 cd arvore-avl-csharp
 
 3️⃣ Criar o Arquivo de Entrada
