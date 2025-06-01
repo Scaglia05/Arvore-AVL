@@ -21,7 +21,7 @@ Todos os comandos são lidos a partir de um **arquivo de entrada** contendo uma 
 - **BaseArvoreAVL.cs**: Implementa toda a lógica da árvore AVL: inserção, remoção, balanceamento, rotações, busca, impressão e cálculo de altura.
 - **ProcessadorDeComandos.cs**: Responsável por ler o arquivo de entrada, interpretar e executar os comandos.
 - **entrada.txt**: Arquivo exemplo de entrada com comandos para manipular a árvore.
-- **Program.cs**: (Opcional) Pode ser criado para rodar o `ProcessadorDeComandos`.
+- **Program.cs**: Criado para rodar o `ProcessadorDeComandos`.
 
 ---
 
