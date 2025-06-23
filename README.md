@@ -1,4 +1,4 @@
-# 🌳 Projeto: Árvore AVL em C#
+# 🌳 Árvore AVL em C#
 
 ## ✅ Descrição
 Este projeto implementa uma **Árvore AVL** (Adelson-Velsky and Landis) — uma árvore binária de busca autobalanceada — utilizando a linguagem **C#**.
