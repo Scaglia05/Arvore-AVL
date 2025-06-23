@@ -127,7 +127,7 @@ A AVL garante que a árvore permaneça balanceada após cada inserção ou remo�
 A saída pode variar conforme as rotações aplicadas.
 Muito útil para estudar conceitos de estrutura de dados e algoritmos!
 
-👨‍💻 ## Autores
+## 👨‍💻 Autores
 
 Este projeto foi desenvolvido por:
 
